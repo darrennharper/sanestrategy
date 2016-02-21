@@ -1,0 +1,7 @@
+name: Sane Strategy
+description: Drupal 8 theme for Sane Strategy
+type: theme
+core: 8.x
+libraries:
+  - sanestrategy/global-css
+  - sanestrategy/global-js
